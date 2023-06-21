@@ -54,10 +54,10 @@ export async function createProduct(
 export async function updateProduct(
   id: number,
   data: ProductUpdateInput,
-  userRole?: string // Make userRole parameter optional
+  userRole?: string 
 ): Promise<Product | null> {
   if (userRole && userRole !== "admin") {
-    // Add a null check for userRole
+   
     throw new Error("Unauthorized");
   }
 
