@@ -114,7 +114,13 @@ npm install
 - Styles
 
 ## Development
-The project uses CSS and Ant Design styles.
+The project uses :
+
+ - Redux Toolkit
+ - Redux Saga
+ - Typescript
+ - Ant Design
+ - CSS
 
 ## Running the project
 To run the frontend in development mode, use the following command:
