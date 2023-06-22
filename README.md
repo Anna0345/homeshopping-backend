@@ -9,8 +9,10 @@ git clone https://github.com/Anna0345/homeshopping-backend.git
 npm install
 
 ```
+# Backend
 
 ## Getting Started
+
 
 To test the application
 
