@@ -52,8 +52,10 @@ To test the application
 ## Functionalities
 
 - JWT authentication and authorization
-- Shopping cart implementation for both guest and registered users (guests use localStorage and registered users use the database)
-- CRUD operations
+- User registration and login
+- Shopping cart implementation for registered users 
+- CRUD operations for products,addresses and etc.
+- Seeding via Prisma
 
 ## Development
 
